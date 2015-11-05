@@ -1,6 +1,6 @@
 {
-  "name": "react-autogrow-textarea",
-  "version": "0.0.4",
+  "name": "react-flexi-textarea",
+  "version": "0.0.5",
   "description": "Automatically adjusts textarea height when user types",
   "main": "./lib/index.js",
   "repository": {
