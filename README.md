@@ -9,17 +9,20 @@ React Autogrow Textarea can be installed as an npm package
 
 ## Usage
 
-    import React from 'react';
-    import Textarea from 'react-autogrow-textarea';
-    let App = React.createClass({
-      render() {
-        return (
-          <Textarea />
-        );
-      }
-    });
-    
-    React.render(<App/>, document.getElementById('container'));
+```jsx
+import React from 'react';
+import Textarea from 'react-autogrow-textarea';
+
+let App = React.createClass({
+  render() {
+    return (
+      <Textarea />
+    );
+  }
+});
+
+React.render(<App/>, document.getElementById('container'));
+```
     
 You can pass all `props` that can be used with default React textarea
 
