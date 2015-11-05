@@ -1,6 +1,6 @@
 {
   "name": "react-autogrow-textarea",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "homepage": "https://github.com/rmdort/react-autogrow-textarea.git",
   "authors": [
     "Vinay M"
@@ -8,7 +8,9 @@
   "description": "Automatically adjusts textarea height when user types",
   "main": "dist/react-autogrow-textarea.js",
   "keywords": [
-    "react", "textarea", "autogrow"
+    "react",
+    "textarea",
+    "autogrow"
   ],
   "license": "MIT",
   "ignore": [
