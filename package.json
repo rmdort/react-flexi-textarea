@@ -1,14 +1,14 @@
 {
-  "name": "react-autogrow-textarea",
+  "name": "react-flexi-textarea",
   "version": "0.0.9",
   "description": "Automatically adjusts textarea height when user types",
   "main": "./build/lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rmdort/react-autogrow-textarea.git.git"
+    "url": "https://github.com/rmdort/react-flexi-textarea.git.git"
   },
-  "homepage": "https://github.com/rmdort/react-autogrow-textarea.git",
-  "bugs": "https://github.com/rmdort/react-autogrow-textarea.git/issues",
+  "homepage": "https://github.com/rmdort/react-flexi-textarea.git",
+  "bugs": "https://github.com/rmdort/react-flexi-textarea.git/issues",
   "directories": {
     "example": "examples"
   },
