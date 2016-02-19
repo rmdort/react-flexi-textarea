@@ -1,6 +1,6 @@
 {
   "name": "react-autogrow-textarea",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Automatically adjusts textarea height when user types",
   "main": "./build/lib/index.js",
   "repository": {
