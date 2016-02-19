@@ -1,17 +1,17 @@
-# react-autogrow-textarea
+# react-flexi-textarea
 
 Automatically adjusts the height of the textarea as user types
 
 ## Installation
 React Autogrow Textarea can be installed as an npm package
 
-    npm install react-autogrow-textarea --save
+    npm install react-flexi-textarea --save
 
 ## Usage
 
 ```jsx
 import React from 'react';
-import Textarea from 'react-autogrow-textarea';
+import Textarea from 'react-flexi-textarea';
 
 let App = React.createClass({
   render() {
