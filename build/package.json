@@ -1,8 +1,8 @@
 {
   "name": "react-flexi-textarea",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Automatically adjusts textarea height when user types",
-  "main": "./build/lib/index.js",
+  "main": "./lib/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/rmdort/react-flexi-textarea.git.git"
