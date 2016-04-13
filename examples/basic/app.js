@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactDOM from 'react-dom';
 import ReactAutogrowTextarea from '../../lib/index';
 
 let App = React.createClass({
@@ -12,4 +13,4 @@ let App = React.createClass({
   }
 });
 
-React.render(<App/>, document.getElementById('container'));
+ReactDOM.render(<App/>, document.getElementById('container'));

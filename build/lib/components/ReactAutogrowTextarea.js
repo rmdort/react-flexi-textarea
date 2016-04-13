@@ -17,7 +17,7 @@ exports['default'] = _react2['default'].createClass({
 
 	autoGrow: function autoGrow() {
 
-		var el = this.refs.textarea.getDOMNode();
+		var el = this.refs.textarea;
 
 		var offset = !window.opera ? el.offsetHeight - el.clientHeight : el.offsetHeight + parseInt(window.getComputedStyle(el, null).getPropertyValue('border-top-width'));
 
